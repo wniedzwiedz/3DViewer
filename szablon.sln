@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "szablon", "szablon.vcxproj", "{3BD07B29-6343-471A-9450-4621F5BABD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD07B29-6343-471A-9450-4621F5BABD7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{3BD07B29-6343-471A-9450-4621F5BABD7A}.Debug|x86.Build.0 = Debug|Win32
+		{3BD07B29-6343-471A-9450-4621F5BABD7A}.Release|x86.ActiveCfg = Release|Win32
+		{3BD07B29-6343-471A-9450-4621F5BABD7A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {373E0A41-A72B-475B-A115-B9FCE144729E}
+	EndGlobalSection
+EndGlobal
